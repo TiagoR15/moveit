@@ -1,0 +1,62 @@
+[
+  {
+    "type": "body",
+    "description": "Stretch one of your arms with the palm of your hand facing the front and pull the fingers upwards for 10 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Stretch your arm agains't your chest e pull it with the other arm for 10 seconds, for each arm.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Pull your neck with the help of your hand from the left to the right, staying in that position for a few seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Place your hands in the back of your head and push downwards, stretching the back of that region.",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Cross your legs and go down with your hands stretched to the floor. Repeat this movement with the other leg in the front.",
+    "amount": 100
+  },
+  {
+    "type": "body",
+    "description": "Seated, open your legs and and try to put both of your palms in the floor, repeat it 3 times for about 5 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Pull your knee into your chest and hold it, switch your leg after 10 seconds.",
+    "amount": 50
+  },
+  {
+    "type": "body",
+    "description": "Seated, cross one leg and tilt your body to the front, switch your leg after 10 seconds.",
+    "amount": 80
+  },
+  {
+    "type": "eye",
+    "description": "Seated, close your eyes and cover them with the palm of your hands for 2 minutes, then open them normally.",
+    "amount": 90
+  },
+  {
+    "type": "eye",
+    "description": "In a open environment, look as far as you can in for directions for 3 seconds, move just your eyes. Repeat it 3 times.",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Using your thumbs, massage the area below your eyebrows in circular movements for 15 seconds.",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Standing up, spin your waist as much as you can to the left, hold it for 5 seconds. Then repeat it to the right.",
+    "amount": 90
+  }
+]
